@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nada2023/userDashboard/static/css/main.1fce3437.css",
+    "main.js": "/Nada2023/userDashboard/static/js/main.370911b6.js",
+    "static/js/453.59b8a61b.chunk.js": "/Nada2023/userDashboard/static/js/453.59b8a61b.chunk.js",
+    "index.html": "/Nada2023/userDashboard/index.html",
+    "main.1fce3437.css.map": "/Nada2023/userDashboard/static/css/main.1fce3437.css.map",
+    "main.370911b6.js.map": "/Nada2023/userDashboard/static/js/main.370911b6.js.map",
+    "453.59b8a61b.chunk.js.map": "/Nada2023/userDashboard/static/js/453.59b8a61b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fce3437.css",
+    "static/js/main.370911b6.js"
+  ]
+}
